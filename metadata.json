@@ -1,0 +1,9 @@
+{
+  "name": "City Taxi x Globos AR",
+  "description": "An AR-enhanced taxi companion app featuring daily rewards, trip safety info from Globos Insurance, and an AI-powered assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
